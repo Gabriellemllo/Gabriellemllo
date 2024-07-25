@@ -4,9 +4,9 @@
   <img src="https://i.pinimg.com/originals/44/e1/52/44e152a6334b2ad5bffdcc3c469a6005.gif" width="300" alt="Welcome GIF">
 </p>
 
-<p align="center">
-  Sou estudante de **Sistemas de Informação** e estou usando este GitHub para compartilhar meus conhecimentos na área de Tecnologia da Informação. Aqui você encontrará exemplos de projetos, tutoriais e códigos que desenvolvi ao longo da minha jornada de aprendizado.
-</p>
+
+  * Sou estudante de **Sistemas de Informação** e estou usando este GitHub para compartilhar meus conhecimentos na área de Tecnologia da Informação. Aqui você encontrará exemplos de projetos, tutoriais e códigos que desenvolvi ao longo da minha jornada de aprendizado.
+
 
 ## Algumas das minhas estatísticas :bar_chart:
 
