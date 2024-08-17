@@ -37,6 +37,7 @@
     </tr>
     <tr>
       <td><img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" width="60" alt="Git"></td>
+      <td><img src="https://img.icons8.com/ios-filled/50/000000/java-coffee-cup-logo.png" width="60" alt="Java"></td> 
       <td><img src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" width="60" alt="Jupyter"></td>
     </tr>
   </table>
