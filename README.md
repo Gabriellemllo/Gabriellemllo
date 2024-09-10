@@ -5,7 +5,7 @@
 </p>
 
 
-  * Sou estudante de **Sistemas para Internet** e estou usando este GitHub para compartilhar meus conhecimentos na área de Tecnologia da Informação. Aqui você encontrará exemplos de projetos, tutoriais e códigos que desenvolvi ao longo da minha jornada de aprendizado.
+  * Sou estudante de **Sistemas para Internet** e estou usando este GitHub para compartilhar meus conhecimentos na área de Tecnologia da Informação. Aqui você encontrará exemplos de projetos,códigos que desenvolvi ao longo da minha jornada de aprendizado.
 
 
 ## Algumas das minhas estatísticas :bar_chart:
